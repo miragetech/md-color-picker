@@ -1,7 +1,8 @@
 {
   "name": "md-color-picker",
   "version": "0.2.6",
-  "description": "Angular-Material inspired color picker.",
+  "description": "Angular-Material inspired color picker. (miragetech fork)",
+  "homepage": "https://github.com/miragetech/md-color-picker",
   "main": "dist/mdColorPicker.min.js",
   "dependencies": {
     "tinycolor2": "*"
@@ -48,6 +49,5 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/brianpkelley/md-color-picker/issues"
-  },
-  "homepage": "https://github.com/brianpkelley/md-color-picker"
+  }
 }
